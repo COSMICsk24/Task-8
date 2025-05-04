@@ -1,0 +1,7 @@
+
+Insights from the Sales Dashboard:
+
+1. West region consistently had the highest sales throughout the year, especially peaking in Q3.
+2. Technology category was the top-performing category, contributing the largest share of total sales.
+3. Sales dipped in February and April, indicating possible seasonal trends or promotional gaps.
+4. Central region had relatively low sales across all categories, signaling a need for market strategy review.
